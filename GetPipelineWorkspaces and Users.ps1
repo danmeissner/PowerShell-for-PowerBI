@@ -1,3 +1,4 @@
+# Need to add a loop for each Pipeline to retrieve the workspaces associated with that pipeline.
 Connect-PowerBIServiceAccount
 
 Write-Host "Getting Expanded Pipeline Info."
